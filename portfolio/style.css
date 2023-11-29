@@ -671,6 +671,7 @@ footer {
     background: #1e3551;
     border: 2px solid #1e3551;
     transition: all 0.3s ease;
+     margin: 10px;
   }
   
   .right form .button-area button:hover {
