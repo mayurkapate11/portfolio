@@ -83,5 +83,9 @@ $(document).ready(function () {
     });
   });
 
+function reset(){
+ document.getElementById("myForm").reset();
+}
+
 
  
